@@ -1,0 +1,8 @@
+app\controller\UsersController.class
+app\model\User.class
+app\dao\DaoUserImpl.class
+app\config\AppInit.class
+app\config\WebConfig.class
+app\service\UserService.class
+app\dao\DaoUser.class
+app\service\UserServiceImpl.class
